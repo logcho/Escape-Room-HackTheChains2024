@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  background-color: #c7fcff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-image: url(../public/background.png); */
+
+  background-size: 200px 100px;
+  
+}
+
+h1{
+  font-family: Copperplate;
+  font-size: 100px;
+}
+
+h2{
+  font-weight: 400;
+  padding-bottom: 20px;
+}
+/* .blur{
+  backdrop-filter: blur(1px);
+  border-radius: 25px;
+} */
+
